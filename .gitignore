@@ -9,3 +9,6 @@ configure
 install-sh
 missing
 *~
+font-dec-misc-*.tar.*
+ChangeLog
+tags
